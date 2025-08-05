@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Gradio temp files
+gradio_cached_examples/
+gradio_outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Models
+models/*.pth
+models/*.onnx
+
+# Temp images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# Hidden files
+.*.swp
+
+gfpgan

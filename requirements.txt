@@ -1,0 +1,10 @@
+gradio>=4.44.0
+opencv-python
+insightface==0.7.3
+onnxruntime
+numpy
+gfpgan
+basicsr
+facexlib
+torch>=2.0.0
+torchvision>=0.15.0
